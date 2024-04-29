@@ -24,7 +24,7 @@
       "width": "10 cm",
       "height": "15 cm",
       "depth": "10 cm",
-      "artisan": 1,
+      "artisan": 2,
       "category": 4,
       "material": "Calabaza"
     },
@@ -38,7 +38,7 @@
       "width": "5 cm",
       "height": "5 cm",
       "depth": "1 cm",
-      "artisan": 1,
+      "artisan": 2,
       "category": 2,
       "material": "Hilo de Algodón"
     },
@@ -51,7 +51,7 @@
       "description": "Este exquisito collar está hecho a mano con cuentas de turquesa natural y detalles de plata. La turquesa es conocida por sus propiedades curativas y su hermoso color azul verdoso, que añade un toque de elegancia a cualquier conjunto.",
       "width": "2 cm",
       "height": "45 cm",
-      "artisan": 1,
+      "artisan": 3,
       "category": 2,
       "material": "Turquesa, Plata"
     },
@@ -78,7 +78,7 @@
       "description": "Este hermoso bowl está pintado a mano por artesanos peruanos. Cada pieza es única y presenta un diseño tradicional inspirado en la rica cultura peruana. Perfecto para servir aperitivos o decorar tu hogar con un toque de arte.",
       "width": "2 cm",
       "height": "4 cm",
-      "artisan": 1,
+      "artisan": 3,
       "category": 4,
       "material": "Cerámica"
     },
@@ -106,7 +106,7 @@
       "width": "30 cm",
       "height": "20 cm",
       "depth": "20 cm",
-      "artisan": 1,
+      "artisan": 2,
       "category": 4,
       "material": "Arcilla"
     }
